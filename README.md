@@ -4,11 +4,21 @@
 Welcome to the **Handisport world**! 🚀 A unique interactive experience that introduces 6 different para-sports through exciting animations and hand gestures. Dive in and test your skills in these amazing sports with accessibility in mind! 💪
 I made this for the swift student challenge 2025
 
+### PREVIEW ! ###
+<p  align="start">
+   <img src="https://github.com/Ocece77/Parapplegames/blob/main/image-pr1.jpeg" width="300">
+ <img src="https://github.com/Ocece77/Parapplegames/blob/main/image-pr2.jpg" width="330">
+ <img src="https://github.com/Ocece77/Parapplegames/blob/main/image-pr3.jpg" width="330">
+
+</p>
+
+
+
 ### 1. **Sports in the App 🏀🚴‍♂️🏃‍♂️🎯**
 Here are the 6 para-sports you can experience in the app:
 
 - **Pararchery 🎯**: Test your precision and aim as you shoot arrows at targets. Pull back the bow with your hand gestures!
-  ![image](data:image-pr1.jpeg)
+
 - **Wheelchair Basketball 🏀**: Jump into the wheelchair and challenge yourself to score points in a fast-paced basketball game.
   
 - **Goalball 🥅**: Play the unique sport designed for visually impaired athletes. Try to block or score goals by listening for the ball!
