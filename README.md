@@ -8,7 +8,7 @@ I made this for the swift student challenge 2025
 Here are the 6 para-sports you can experience in the app:
 
 - **Pararchery 🎯**: Test your precision and aim as you shoot arrows at targets. Pull back the bow with your hand gestures!
-  
+  ![image](data:image-pr1.jpeg)
 - **Wheelchair Basketball 🏀**: Jump into the wheelchair and challenge yourself to score points in a fast-paced basketball game.
   
 - **Goalball 🥅**: Play the unique sport designed for visually impaired athletes. Try to block or score goals by listening for the ball!
